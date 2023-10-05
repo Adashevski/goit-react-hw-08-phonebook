@@ -11,7 +11,7 @@ const Filter = () => {
 
   return (
     <label>
-      Filter contacts by name, M'lord:
+      Filter contacts by name:
       <input type="text" onChange={handleChangeFilter} />
     </label>
   );
