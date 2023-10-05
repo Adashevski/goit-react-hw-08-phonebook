@@ -5,7 +5,7 @@ import { useAuth } from 'hooks/useAuth';
 import { refreshUser } from 'redux/auth/operations';
 import { PrivateRoute } from './PrivateRoute';
 import { RestrictedRoute } from './RestrictedRoute';
-import SharedLayout from './SharedLayout/SharedLayout';
+import SharedLayout from '../pages/SharedLayout/SharedLayout';
 import '../index.css';
 
 const HomePage = lazy(() => import('../pages/HomePage/HomePage'));
