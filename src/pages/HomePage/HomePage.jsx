@@ -1,7 +1,9 @@
+import styles from './HomePage.module.css';
+
 const HomePage = () => {
   return (
-    <div>
-      <h1>Welcome</h1>
+    <div className={styles.container}>
+      <h1 className={styles.title}>Welcome to this humble Home Page</h1>
     </div>
   );
 };
