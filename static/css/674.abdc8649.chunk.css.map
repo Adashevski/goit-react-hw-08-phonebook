@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/674.abdc8649.chunk.css","mappings":"AAAA,2BACE,mBACF,CAEA,uBAEE,cAAe,CADf,eAAgB,CAEhB,iBACF","sources":["pages/HomePage/HomePage.module.css"],"sourcesContent":[".container {\n  padding-bottom: 10px;\n}\n\n.title {\n  font-weight: 500;\n  font-size: 48px;\n  text-align: center;\n}\n"],"names":[],"sourceRoot":""}

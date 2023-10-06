@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_08_phonebook=self.webpackChunkgoit_react_hw_08_phonebook||[]).push([[674],{674:function(e,o,t){t.r(o),t.d(o,{default:function(){return _}});var n="HomePage_container__uNu-e",a="HomePage_title__UFLA3",c=t(184),_=function(){return(0,c.jsx)("div",{className:n,children:(0,c.jsx)("h1",{className:a,children:"Welcome to this humble Home Page"})})}}}]);
+//# sourceMappingURL=674.52768a70.chunk.js.map
